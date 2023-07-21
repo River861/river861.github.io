@@ -43,8 +43,9 @@ Publications
   
 Teaching
 ======
-* COMP130159.01 Software Security, TA, Jan. 2022 - Apr. 2022
 * COMP130110.01 Operating Systems, TA, Sept. 2021 - Dec. 2021
+* COMP130159.01 Software Security, TA, Jan. 2022 - Apr. 2022
+
 <!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
