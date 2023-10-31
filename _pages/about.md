@@ -13,13 +13,14 @@ I am a Ph.D. candidate from [BZ Lab](https://appsrv.cse.cuhk.edu.hk/~yfzhou/), S
 
 News
 ---
+* **[October 2023]** Jiacheng has attended the SOSP'23 conference in Koblenz and presented "*Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System*" at the conference.
 * **[July 2023]** Our new paper "*Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System*" has been accepted by SOSP 2023. Congratulations to Jiacheng!
 * **[July 2023]** I have attended the OSDI'23 conference in Boston and presented "*SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory*" at the conference.
 
 
 Selected Publications
 ---
-1. **[*SOSP'23*]** Jiacheng Shen, Pengfei Zuo, **Xuchuan Luo**, Yuxin Su, Jiazhen Gu, Yangfan Zhou, Hao Feng, and Michael R. Lyu. Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System. *In the 29th ACM Symposium on Operating Systems Principles, SOSP 2023.* [[paper](https://dl.acm.org/doi/10.1145/3600006.3613144), [code](https://github.com/dmemsys/Ditto)]
-2. **[*OSDI'23*]** **Xuchuan Luo**, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael R. Lyu, Yangfan Zhou. SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory. *In the 17th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2023.* [[paper](https://www.usenix.org/system/files/osdi23-luo.pdf), [slides](https://www.usenix.org/system/files/osdi23_slides_luo.pdf), [code](https//github.com/dmemsys/SMART)]
+1. **[*OSDI'23*]** **Xuchuan Luo**, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael R. Lyu, Yangfan Zhou. SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory. *In the 17th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2023.* [[paper](https://www.usenix.org/system/files/osdi23-luo.pdf), [slides](https://www.usenix.org/system/files/osdi23_slides_luo.pdf), [code](https//github.com/dmemsys/SMART)]
+2. **[*SOSP'23*]** Jiacheng Shen, Pengfei Zuo, **Xuchuan Luo**, Yuxin Su, Jiazhen Gu, Yangfan Zhou, Hao Feng, and Michael R. Lyu. Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System. *In the 29th ACM Symposium on Operating Systems Principles, SOSP 2023.* [[paper](https://dl.acm.org/doi/10.1145/3600006.3613144), [code](https://github.com/dmemsys/Ditto)]
 3. **[*FAST'23*]** Jiacheng Shen, Pengfei Zuo, **Xuchuan Luo**, Tianyi Yang, Yuxin Su, Yangfan Zhou, and Michael R. Lyu. FUSEE: A Fully Memory-Disaggregated Key-Value Store. *In the 21st USENIX Conference on File and Storage Technologies, FAST 2023.* [[paper](https://www.usenix.org/system/files/fast23-shen.pdf), [slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast23_slides_shen.pdf), [code](https://github.com/dmemsys/FUSEE)]
 
