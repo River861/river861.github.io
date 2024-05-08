@@ -17,7 +17,6 @@ News
 * **[March 2024]** My invited paper "*A Memory-Disaggregated Radix Tree*" has been accepted by ACM Transactions on Storage.
 * **[March 2024]** I have attended the defense of the *National Natural Science Foundation of China for Ph.D. Graduate Students* in Hangzhou.
 * **[December 2023]** I have received the *National Scholarship for Ph.D. Graduate Students*.
-* **[October 2023]** Jiacheng has attended the SOSP'23 conference in Koblenz and presented "*Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System*" at the conference.
 * **[July 2023]** Our new paper "*Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System*" has been accepted by SOSP 2023. Congratulations to Jiacheng!
 * **[July 2023]** I have attended the OSDI'23 conference in Boston and presented "*SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory*" at the conference.
 
