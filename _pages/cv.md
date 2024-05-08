@@ -18,7 +18,7 @@ Work experience
 ======
 * Research Intern at Huawei Cloud (in Shenzhen), Sept. 2022 - Aug. 2023
   * Research Topics: Storage Systems on Disaggregated Memory
-  * Mentor: [Pengfei Zuo](https://pfzuo.github.io/homepage/)
+  * Mentor: [Pengfei Zuo](https://pfzuo.github.io/)
   * Partner: [Jiacheng Shen](https://bernardshen.github.io/)
   
 <!-- Skills
