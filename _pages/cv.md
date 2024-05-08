@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Computer Science, Fudan University, 2017 - 2021
 * Ph.D in Computer Science, Fudan University, 2021 - now
+* B.Sc. in Computer Science, Fudan University, 2017 - 2021
 
 Work experience
 ======
 * Research Intern at Huawei Cloud (in Shenzhen), Sept. 2022 - Aug. 2023
   * Research Topics: Storage Systems on Disaggregated Memory
-  * Mentor: Pengfei Zuo
+  * Mentor: [Pengfei Zuo](https://pfzuo.github.io/homepage/)
+  * Partner: [Jiacheng Shen](https://bernardshen.github.io/)
   
 <!-- Skills
 ======
@@ -34,7 +35,16 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Awards and Honors
+======
+* National Natural Science Foundation of China (NSFC) for Ph.D. Graduate Students, 2024
+* National Scholarship for Ph.D. Graduate Students, 2023
+* Rising Innovation Star Award at Huawei Cloud, 2023
+* Student Grant from OSDI, 2023
+* Huawei Scholarship at Fudan University, 2022
+* Outstanding Graduate of Fudan University, 2021
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
