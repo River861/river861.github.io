@@ -14,7 +14,7 @@ I am a Ph.D. candidate from [BZ Lab](https://appsrv.cse.cuhk.edu.hk/~yfzhou/), S
 News
 ---
 * **[April 2024]** I have obtained the *National Natural Science Foundation of China for Ph.D. Graduate Students*.
-* **[March 2024]** My invited paper "*A Memory-Disaggregated Radix Tree*" has been accepted by ACM Transactions on Storage.
+* **[March 2024]** Our invited paper "*A Memory-Disaggregated Radix Tree*" has been accepted by ACM Transactions on Storage.
 * **[March 2024]** I have attended the defense of the *National Natural Science Foundation of China for Ph.D. Graduate Students* in Hangzhou.
 * **[December 2023]** I have received the *National Scholarship for Ph.D. Graduate Students*.
 * **[July 2023]** Our new paper "*Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System*" has been accepted by SOSP 2023. Congratulations to Jiacheng!
