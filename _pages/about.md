@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate from [BZ Lab](https://appsrv.cse.cuhk.edu.hk/~yfzhou/), School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/) (co-supervised by Prof. Yangfan Zhou and Prof. Xin Wang). I received a B.Sc degree in Computer Science from Fudan University in 2021. My research interests are memory disaggregation, RDMA systems and storage systems.
+I am a Ph.D. candidate from [BZ Lab](https://appsrv.cse.cuhk.edu.hk/~yfzhou/), School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/) (co-supervised by [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)). I received a B.Sc degree in Computer Science from Fudan University in 2021. My research interests are memory disaggregation, RDMA systems and storage systems.
 
 
 News
