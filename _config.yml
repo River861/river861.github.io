@@ -9,7 +9,7 @@ logo: "/assets/images/site-logo.png"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Xuchuan Luo"
 title_separator          : "-"
 name                     : &name "Xuchuan Luo"
 description              : &description "Student at Fudan University"
