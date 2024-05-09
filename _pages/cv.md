@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Fudan University, 2021 - now
+  * Mentor: [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)
 * B.Sc. in Computer Science, Fudan University, 2017 - 2021
 
 Work experience
