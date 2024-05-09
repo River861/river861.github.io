@@ -38,9 +38,9 @@ Publications
 
 Awards and Honors
 ======
-* National Natural Science Foundation of China (NSFC) for Ph.D. Graduate Students, 2024
+* National Natural Science Foundation of China (NSFC) for Ph.D. Graduate Students, 2024 [[link](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)]
 * National Scholarship for Ph.D. Graduate Students, 2023
-* Rising Innovation Star Award at Huawei Cloud, 2023
+* Rising Innovation Star Award at Huawei Cloud, 2023 [[link](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]
 * Student Grant from OSDI, 2023
 * Huawei Scholarship at Fudan University, 2022
 * Outstanding Graduate of Fudan University, 2021
