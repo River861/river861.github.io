@@ -1,5 +1,7 @@
 ---
 permalink: /
+title: "About Xuchuan"
+excerpt: "About Xuchuan"
 author_profile: true
 redirect_from: 
   - /about/
