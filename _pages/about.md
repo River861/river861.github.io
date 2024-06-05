@@ -1,6 +1,7 @@
 ---
 permalink: /
-# title: "Xuchuan Luo"
+title: "About Me"
+excerpt: "about"
 author_profile: true
 redirect_from: 
   - /about/
