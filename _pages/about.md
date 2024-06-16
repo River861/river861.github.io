@@ -12,12 +12,13 @@ I am Xuchuan Luo「罗旭川」, a third-year Ph.D. candidate from [BZ Lab](http
 
 📢 News
 ---
-* **[April 2024]** I have obtained the *National Natural Science Foundation of China for Ph.D. Graduate Students*.
-* **[March 2024]** Our invited paper "*A Memory-Disaggregated Radix Tree*" has been accepted by ACM Transactions on Storage.
-* **[March 2024]** I have attended the defense of the *National Natural Science Foundation of China for Ph.D. Graduate Students* in Hangzhou.
+* **[June 2024]** I have attended the 26th *ChinaSys* Workshop and presented our *SMART* paper with a lightning talk and a poster in Hangzhou.
+* **[April 2024]** I have obtained the *NSFC for Ph.D. Graduate Students*.
+* **[March 2024]** Our invited paper "*A Memory-Disaggregated Radix Tree*" has been accepted by ACM TOS.
+* **[March 2024]** I have attended the defense of the *NSFC for Ph.D. Graduate Students* in Hangzhou.
 * **[December 2023]** I have received the *National Scholarship for Ph.D. Graduate Students*.
-* **[July 2023]** Our new paper "*Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System*" has been accepted by SOSP 2023. Congratulations to Jiacheng!
-* **[July 2023]** I have attended the OSDI'23 conference in Boston and presented "*SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory*" at the conference.
+* **[July 2023]** Our new paper *Ditto* has been accepted by SOSP'23. Congratulations to Jiacheng!
+* **[July 2023]** I have attended the OSDI'23 conference in Boston and presented our *SMART* paper at the conference.
 
 
 📋 Selected Publications
