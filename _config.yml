@@ -86,7 +86,7 @@ author:
   name             : "Xuchuan Luo"
   avatar           : "xuchuan_profile.png"
   cv_avatar        : "xuchuan_cv_profile.png"
-  bio              : " " # "Wishing you happiness every day✨."
+  bio              :  # "Wishing you happiness every day✨."
   location         : "Shanghai, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
