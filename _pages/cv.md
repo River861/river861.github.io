@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+{% assign reversed_publications = site.publications | reverse %}
 
 Education
 ======
@@ -33,7 +34,6 @@ Work experience
 
 Publications
 ======
-  {% assign reversed_publications = site.publications | reverse %}
   <ul>{% for post in reversed_publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
