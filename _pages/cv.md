@@ -15,7 +15,7 @@ Education
   * Mentors: [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)
 * B.Sc. in Computer Science, Fudan University, 2017 - 2021
 
-Work experience
+Work Experience
 ======
 * Research Intern at Huawei Cloud (in Shenzhen), Sept. 2022 - Aug. 2023
   * Research Topics: Storage Systems on Disaggregated Memory
