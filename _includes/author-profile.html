@@ -20,9 +20,11 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% unless page.title contains "CV" %}
+    {% if page.title contains "CV" %}
+    <p class="author__bio"></p>{% endif %}
+    {% else %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    {% endunless %}
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
