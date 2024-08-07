@@ -33,9 +33,10 @@ Work experience
 
 Publications
 ======
-<ul>{% for post in site.publications %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+  {% assign reversed_publications = site.publications | reverse %}
+  <ul>{% for post in reversed_publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Awards and Honors
 ======
