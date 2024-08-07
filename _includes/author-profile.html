@@ -11,6 +11,7 @@
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
       {% if page.title contains "CV" %}
+      <img src="{{ author.cv_avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
       {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
       {% endif %}
