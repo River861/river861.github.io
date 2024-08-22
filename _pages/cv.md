@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* ***Fudan University***
+* **Fudan University**
   * Ph.D in Computer Science, 2021 - now  
     Mentors: [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)
   * B.Sc. in Computer Science, 2017 - 2021
@@ -19,7 +19,7 @@ Education
 
 Internship Experience
 ======
-* ***Huawei Cloud***
+* **Huawei Cloud**
   * Research intern in Shenzhen, Sept. 2022 - Aug. 2023  
   Partners: [Dr. Jiacheng Shen](https://bernardshen.github.io/) and [Dr. Pengfei Zuo](https://pfzuo.github.io/)
   
@@ -41,8 +41,8 @@ Publications
 
 Awards and Honors
 ======
-* National Natural Science Foundation of China (NSFC) for Ph.D. Graduate Students, 2024 [[link](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)]
-* Best Spotlight Paper Award in ChinaSys, 2024 [[link](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)]
+* [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024 [[link](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)]
+* Best Spotlight Paper Award in [ChinaSys'24](http://cnsys24-spring.org.cn/index.html), 2024 [[link](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)]
 * National Scholarship for Ph.D. Graduate Students, 2023
 * Rising Innovation Star Award at Huawei Cloud, 2023 [[link](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]
 * Student Grant from OSDI, 2023
