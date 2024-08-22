@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🏫 Education
 ======
 * **Fudan University**
   * Ph.D in Computer Science, 2021 - now  
@@ -17,7 +17,7 @@ Education
   * B.Sc. in Computer Science, 2017 - 2021
 
 
-Internship Experience
+🏢 Internship Experience
 ======
 * **Huawei Cloud**
   * Research intern in Shenzhen, Sept. 2022 - Aug. 2023  
@@ -32,17 +32,17 @@ Internship Experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+📋 Publications
 ======
   {% assign reversed_publications = site.publications | reverse %}
   <ul>{% for post in reversed_publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Awards and Honors
+🏆 Awards and Honors
 ======
 * [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024 [[link](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)]
-* Best Spotlight Paper Award in [ChinaSys'24](http://cnsys24-spring.org.cn/index.html), 2024 [[link](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)]
+* Best Spotlight Paper Award in ChinaSys, 2024 [[link](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)]
 * National Scholarship for Ph.D. Graduate Students, 2023
 * Rising Innovation Star Award at Huawei Cloud, 2023 [[link](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]
 * Student Grant from OSDI, 2023
@@ -55,10 +55,10 @@ Awards and Honors
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
+📐 Teaching Assistant
 ======
-* TA, COMP130110.01 Operating Systems, Fudan University, Sept. 2021 - Dec. 2021
-* TA, COMP130159.01 Software Security, Fudan University, Jan. 2022 - Apr. 2022
+* COMP130110.01 Operating Systems, Fudan University, Sept. 2021 - Dec. 2021
+* COMP130159.01 Software Security, Fudan University, Jan. 2022 - Apr. 2022
 
 <!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
