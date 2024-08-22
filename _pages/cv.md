@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
 🏫 Education
-======
+---
 * **Fudan University**
   * Ph.D in Computer Science, 2021 - now  
     Mentors: [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)
@@ -18,7 +19,7 @@ redirect_from:
 
 
 🏢 Internship Experience
-======
+---
 * **Huawei Cloud**
   * Research intern in Shenzhen, Sept. 2022 - Aug. 2023  
   Partners: [Dr. Jiacheng Shen](https://bernardshen.github.io/) and [Dr. Pengfei Zuo](https://pfzuo.github.io/)
@@ -33,14 +34,14 @@ redirect_from:
 * Skill 3 -->
 
 📋 Publications
-======
+---
   {% assign reversed_publications = site.publications | reverse %}
   <ul>{% for post in reversed_publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 🏆 Awards and Honors
-======
+---
 * [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024 [[link](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)]
 * Best Spotlight Paper Award in ChinaSys, 2024 [[link](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)]
 * National Scholarship for Ph.D. Graduate Students, 2023
@@ -56,7 +57,7 @@ redirect_from:
   {% endfor %}</ul> -->
   
 📐 Teaching Assistant
-======
+---
 * COMP130110.01 Operating Systems, Fudan University, Sept. 2021 - Dec. 2021
 * COMP130159.01 Software Security, Fudan University, Jan. 2022 - Apr. 2022
 
