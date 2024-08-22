@@ -47,8 +47,8 @@ redirect_from:
 🏆 Awards and Honors
 ---
 * [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024 [[link](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)]
-  * Project Name: <u>*Optimizing the I/O Efficiency of Key-Value Stores on Disaggregated Memory*</u>
-  * Supporting Unit: <u>*Fudan University*</u>
+  * Project Name: *<u>Optimizing the I/O Efficiency of Key-Value Stores on Disaggregated Memory</u>*
+  * Supporting Unit: *<u>Fudan University</u>*
 * Best Spotlight Paper Award in ChinaSys, 2024 [[link](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)]
 * National Scholarship for Ph.D. Graduate Students, 2023
 * Rising Innovation Star Award at Huawei Cloud, 2023 [[link](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]
