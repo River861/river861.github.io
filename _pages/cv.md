@@ -50,7 +50,7 @@ redirect_from:
 * Best Spotlight Paper Award in ChinaSys, 2024 [[link](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)]
 * National Scholarship for Ph.D. Graduate Students, 2023
 * Rising Innovation Star Award at Huawei Cloud, 2023 [[link](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]
-* Student Grant from OSDI, 2023
+<!-- * Student Grant from OSDI, 2023 -->
 * Huawei Scholarship at Fudan University, 2022
 * Outstanding Graduate of Fudan University, 2021
 * Second-Class Scholarship for Outstanding Students in Fudan University, 2018 & 2020
