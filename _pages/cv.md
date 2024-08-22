@@ -33,12 +33,15 @@ redirect_from:
   * Sub-skill 2.3
 * Skill 3 -->
 
+---
+
 📋 Publications
 ---
   {% assign reversed_publications = site.publications | reverse %}
   <ul>{% for post in reversed_publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
 
 🏆 Awards and Honors
 ---
@@ -55,7 +58,9 @@ redirect_from:
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
-  
+
+---
+
 📐 Teaching Assistant
 ---
 * COMP130110.01 Operating Systems, Fudan University, Sept. 2021 - Dec. 2021
