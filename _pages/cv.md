@@ -11,15 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Fudan University, 2021 - now
-  * Mentors: [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)
-* B.Sc. in Computer Science, Fudan University, 2017 - 2021
+***Fudan University***
+* Ph.D in Computer Science, 2021 - now  
+Mentors: [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)
+* B.Sc. in Computer Science, 2017 - 2021
 
-Work Experience
+
+Internship Experience
 ======
-* Research Intern at Huawei Cloud (in Shenzhen), Sept. 2022 - Aug. 2023
-  * Research Topics: Storage Systems on Disaggregated Memory
-  * Partners: [Dr. Jiacheng Shen](https://bernardshen.github.io/) and [Dr. Pengfei Zuo](https://pfzuo.github.io/)
+***Huawei Cloud***
+  * Research intern in Shenzhen, Sept. 2022 - Aug. 2023  
+Partners: [Dr. Jiacheng Shen](https://bernardshen.github.io/) and [Dr. Pengfei Zuo](https://pfzuo.github.io/)
   
 <!-- Skills
 ======
