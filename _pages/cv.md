@@ -42,6 +42,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+---
 
 🏆 Awards and Honors
 ---
@@ -52,6 +53,9 @@ redirect_from:
 * Student Grant from OSDI, 2023
 * Huawei Scholarship at Fudan University, 2022
 * Outstanding Graduate of Fudan University, 2021
+* Second-Class Scholarship for Outstanding Students in Fudan University, 2018 & 2020
+* Second Prize in Mathematics Competition of Chinese College Students (Non-Math Group), 2019
+* Third Prize in China Undergraduate Mathematical Contest in Modeling (Shanghai Group), 2019
 
 <!-- Talks
 ======
