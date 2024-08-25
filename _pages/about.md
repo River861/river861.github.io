@@ -53,7 +53,7 @@ Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Tianyi Yang, Yuxin Su, Yangfan Z
 
 
 
-🏆 Selected Awards and Honors
+🎗️ Selected Honors
 ---
 * [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024 [[link](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)] <span style="color:#d33954;">**(The First Batch) (Top 0.5% in Fudan)**</span>
 * Best Spotlight Paper Award in ChinaSys, 2024 [[link](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)] <span style="color:#d33954;">**(Top-5 in ChinaSys'24)**</span>
