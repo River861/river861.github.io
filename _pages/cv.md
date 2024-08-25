@@ -18,7 +18,7 @@ redirect_from:
   * B.Sc. in Computer Science, 2017 - 2021
 
 
-🏢 Internship Experience
+🏢 Internship
 ---
 * **Huawei Cloud**
   * Research intern in Shenzhen, Sept. 2022 - Aug. 2023  
