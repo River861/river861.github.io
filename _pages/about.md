@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Xuchuan Luo「罗旭川」, a third-year Ph.D. candidate from [BZ Lab](https://appsrv.cse.cuhk.edu.hk/~yfzhou/) and [SONIC Lab](), School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/) (co-supervised by [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)). I received a B.Sc degree in Computer Science from Fudan University in 2021. My research interests are memory disaggregation, RDMA-based systems and storage systems.
+I am Xuchuan Luo「罗旭川」, a third-year Ph.D. candidate from [BZ Lab](https://appsrv.cse.cuhk.edu.hk/~yfzhou/) (within SONIC Lab), School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/) (co-supervised by [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)). I received a B.Sc degree in Computer Science from Fudan University in 2021. My research interests are memory disaggregation, RDMA-based systems and storage systems.
 
 
 📢 News
@@ -27,13 +27,13 @@ I am Xuchuan Luo「罗旭川」, a third-year Ph.D. candidate from [BZ Lab](http
 1. <strong style="color:#c93199;">[SOSP]</strong>
 <u>Xuchuan Luo</u>, Jiacheng Shen, Pengfei Zuo, Xin Wang, Michael R. Lyu, Yangfan Zhou.
 ***CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory.***
-*In the 30th ACM Symposium on Operating Systems Principles, SOSP 2024.* *([To appear](https://sigops.org/s/conferences/sosp/2024/index.html))*
+*In the 30th ACM Symposium on Operating Systems Principles, SOSP 2024.* *([To appear](https://sigops.org/s/conferences/sosp/2024/accepted.html))*
 2. <strong style="color:#c93199;">[OSDI]</strong>
 <u>Xuchuan Luo</u>, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael R. Lyu, Yangfan Zhou.
 ***SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.***
 *In the 17th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2023.*
 [[paper](https://www.usenix.org/system/files/osdi23-luo.pdf), [code](https://github.com/dmemsys/SMART), [slides](https://www.usenix.org/system/files/osdi23_slides_luo.pdf)]
-<span style="color:#d33954 !important;">**(Recommended for Fast-Track Publication in ACM TOS by OSDI'23 Program Co-Chairs** [[link](https://dl.acm.org/doi/10.1145/3654801)]**)**</span>
+<span style="color:#d33954 !important;">**(Recommended for Fast-Track Publication in ACM TOS by OSDI'23 Program Co-Chairs** [[details](https://dl.acm.org/doi/10.1145/3654801)]**)**</span>
 3. <strong style="color:#c93199;">[TOS]</strong>
 <u>Xuchuan Luo</u>, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael R. Lyu, Yangfan Zhou.
 ***A Memory-Disaggregated Radix Tree.***
@@ -55,7 +55,7 @@ Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Tianyi Yang, Yuxin Su, Yangfan Z
 
 🎗️ Selected Honors
 ---
-* [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024 [[link](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)] <span style="color:#d33954;">**(The First Batch) (Top 0.5% in Fudan)**</span>
-* Best Spotlight Paper Award in ChinaSys, 2024 [[link](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)] <span style="color:#d33954;">**(Top-5 in ChinaSys'24)**</span>
+* [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024 [[news](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)] <span style="color:#d33954;">**(The First Batch) (Top 0.5% in Fudan)**</span>
+* Best Spotlight Paper Award in ChinaSys, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)] <span style="color:#d33954;">**(Top-5 in ChinaSys'24)**</span>
 * National Scholarship for Ph.D. Graduate Students, 2023 <span style="color:#d33954;">**(Top 2% in Fudan)**</span>
-* Rising Innovation Star Award at Huawei Cloud, 2023 [[link](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]
+* Rising Innovation Star Award at Huawei Cloud, 2023 [[news](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]

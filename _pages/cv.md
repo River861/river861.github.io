@@ -46,7 +46,7 @@ redirect_from:
 
 🪙 Funding and Grants
 ---
-* [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024 [[link](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)]
+* [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024 [[news](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)]
   * Project Name: *<u>Optimizing the I/O Efficiency of Key-Value Stores on Disaggregated Memory</u>*
   * Supporting Unit: *<u>Fudan University</u>*
 * Student Grant from OSDI, 2023
@@ -55,9 +55,9 @@ redirect_from:
 
 🏆 Awards and Prizes
 ---
-* Best Spotlight Paper Award in ChinaSys, 2024 [[link](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)]
+* Best Spotlight Paper Award in ChinaSys, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)]
 * National Scholarship for Ph.D. Graduate Students, 2023
-* Rising Innovation Star Award at Huawei Cloud, 2023 [[link](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]
+* Rising Innovation Star Award at Huawei Cloud, 2023 [[news](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]
 <!-- * Student Grant from OSDI, 2023 -->
 * Huawei Scholarship at Fudan University, 2022
 * Outstanding Graduate of Fudan University, 2021
