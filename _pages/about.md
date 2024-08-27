@@ -58,4 +58,4 @@ Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Tianyi Yang, Yuxin Su, Yangfan Z
 * [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024 [[news](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)] <span style="color:#d33954;">**(The First Batch) (Top 0.5% in Fudan)**</span>
 * Best Spotlight Paper Award in ChinaSys, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)] <span style="color:#d33954;">**(Top-5 in ChinaSys'24)**</span>
 * National Scholarship for Ph.D. Graduate Students, 2023 <span style="color:#d33954;">**(Top 2% in Fudan)**</span>
-* Rising Innovation Star Award at Huawei Cloud, 2023 [[news](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]
+<!-- * Rising Innovation Star Award at Huawei Cloud, 2023 [[news](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)] -->
