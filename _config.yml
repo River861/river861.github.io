@@ -185,7 +185,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-    sort_by: 'order'
   # talks:
   #   output: true
   #   permalink: /:collection/:path/
