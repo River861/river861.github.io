@@ -34,17 +34,17 @@ I am Xuchuan Luo「罗旭川」, a third-year Ph.D. candidate from [BZ Lab](http
 *In the 17th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2023.*
 [[paper](https://www.usenix.org/system/files/osdi23-luo.pdf), [code](https://github.com/dmemsys/SMART), [slides](https://www.usenix.org/system/files/osdi23_slides_luo.pdf)]
 <span style="color:#d33954 !important;">**(Recommended for Fast-Track Publication in ACM TOS by OSDI'23 Program Co-Chairs** [[details](https://dl.acm.org/doi/10.1145/3654801)]**)**</span>
-3. <strong style="color:#c93199;">[TOS]</strong>
+3. <strong style="color:#c93199;">[SOSP]</strong>
+Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Yuxin Su, Jiazhen Gu, Yangfan Zhou, Hao Feng, and Michael R. Lyu.
+***Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System.***
+*In the 29th ACM Symposium on Operating Systems Principles, SOSP 2023.*
+[[paper](https://dl.acm.org/doi/10.1145/3600006.3613144), [code](https://github.com/dmemsys/Ditto)]
+4. <strong style="color:#c93199;">[TOS]</strong>
 <u>Xuchuan Luo</u>, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael R. Lyu, Yangfan Zhou.
 ***A Memory-Disaggregated Radix Tree.***
 *In the ACM Transactions on Storage, TOS 2024.*
 [[paper](https://dl.acm.org/doi/10.1145/3664289), [code](https://github.com/dmemsys/SMART/tree/extended-version), [showcase](https://link.growkudos.com/1nfo5bx18u8)]
 <!-- <span style="color:#d33954;">**(Invited Paper)**</span> -->
-4. <strong style="color:#c93199;">[SOSP]</strong>
-Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Yuxin Su, Jiazhen Gu, Yangfan Zhou, Hao Feng, and Michael R. Lyu.
-***Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System.***
-*In the 29th ACM Symposium on Operating Systems Principles, SOSP 2023.*
-[[paper](https://dl.acm.org/doi/10.1145/3600006.3613144), [code](https://github.com/dmemsys/Ditto)]
 <!-- 5. <strong style="color:#c93199;">[FAST]</strong>
 Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Tianyi Yang, Yuxin Su, Yangfan Zhou, and Michael R. Lyu.
 ***FUSEE: A Fully Memory-Disaggregated Key-Value Store.***
