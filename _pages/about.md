@@ -45,11 +45,11 @@ Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Yuxin Su, Jiazhen Gu, Yangfan Zh
 ***Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System.***
 *In the 29th ACM Symposium on Operating Systems Principles, SOSP 2023.*
 [[paper](https://dl.acm.org/doi/10.1145/3600006.3613144), [code](https://github.com/dmemsys/Ditto)]
-5. <strong style="color:#c93199;">[FAST]</strong>
+<!-- 5. <strong style="color:#c93199;">[FAST]</strong>
 Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Tianyi Yang, Yuxin Su, Yangfan Zhou, and Michael R. Lyu.
 ***FUSEE: A Fully Memory-Disaggregated Key-Value Store.***
 *In the 21st USENIX Conference on File and Storage Technologies, FAST 2023.*
-[[paper](https://www.usenix.org/system/files/fast23-shen.pdf), [code](https://github.com/dmemsys/FUSEE), [slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast23_slides_shen.pdf)]
+[[paper](https://www.usenix.org/system/files/fast23-shen.pdf), [code](https://github.com/dmemsys/FUSEE), [slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast23_slides_shen.pdf)] -->
 
 
 
