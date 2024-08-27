@@ -39,7 +39,7 @@ I am Xuchuan Luo「罗旭川」, a third-year Ph.D. candidate from [BZ Lab](http
 ***A Memory-Disaggregated Radix Tree.***
 *In the ACM Transactions on Storage, TOS 2024.*
 [[paper](https://dl.acm.org/doi/10.1145/3664289), [code](https://github.com/dmemsys/SMART/tree/extended-version), [showcase](https://link.growkudos.com/1nfo5bx18u8)]
-<span style="color:#d33954;">**(Invited Paper)**</span>
+<!-- <span style="color:#d33954;">**(Invited Paper)**</span> -->
 4. <strong style="color:#c93199;">[SOSP]</strong>
 Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Yuxin Su, Jiazhen Gu, Yangfan Zhou, Hao Feng, and Michael R. Lyu.
 ***Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System.***

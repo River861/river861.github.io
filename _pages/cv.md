@@ -18,20 +18,12 @@ redirect_from:
   * B.Sc. in Computer Science, 2017 - 2021
 
 
-🏢 Internship
+<!-- 🏢 Internship
 ---
 * **Huawei Cloud**
   * Research intern in Shenzhen, Sept. 2022 - Aug. 2023  
-  Partners: [Dr. Jiacheng Shen](https://bernardshen.github.io/) and [Dr. Pengfei Zuo](https://pfzuo.github.io/)
-  
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+  Partners: [Dr. Jiacheng Shen](https://bernardshen.github.io/) and [Dr. Pengfei Zuo](https://pfzuo.github.io/) -->
+
 
 ---
 
@@ -58,7 +50,6 @@ redirect_from:
 * Best Spotlight Paper Award in ChinaSys, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)]
 * National Scholarship for Ph.D. Graduate Students, 2023
 * Rising Innovation Star Award at Huawei Cloud, 2023 [[news](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]
-<!-- * Student Grant from OSDI, 2023 -->
 * Huawei Scholarship at Fudan University, 2022
 * Outstanding Graduate of Fudan University, 2021
 * Second-Class Scholarship for Outstanding Students in Fudan University, 2018 & 2020
