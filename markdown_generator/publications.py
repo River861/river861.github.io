@@ -90,6 +90,8 @@ for row, item in publications.iterrows():
     
     md += "\nccfrank: '" + html_escape(item.ccfrank) + "'"
     
+    md += "\norder: " + str(item.order)
+    
     md += "\n---"
     
     ## Markdown description for individual page
