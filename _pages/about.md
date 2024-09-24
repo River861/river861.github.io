@@ -22,7 +22,7 @@ I am Xuchuan Luo「罗旭川」, a third-year Ph.D. candidate from [BZ Lab](http
 * **[July 2023]** I have attended the OSDI'23 conference in Boston and presented our *SMART* paper at the conference.
 
 
-📋 Selected Publications
+📋 Selected Publications [[More](https://river861.github.io/cv)]
 ---
 1. <strong style="color:#c93199;">[SOSP]</strong>
 <u>Xuchuan Luo</u>, Jiacheng Shen, Pengfei Zuo, Xin Wang, Michael R. Lyu, Yangfan Zhou.
@@ -53,7 +53,7 @@ Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Tianyi Yang, Yuxin Su, Yangfan Z
 
 
 
-🎗️ Selected Honors
+🎗️ Selected Honors [[More](https://river861.github.io/cv)]
 ---
 * [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024 [[news](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)] <span style="color:#d33954;">**(The First Batch) (Top 0.5% in Fudan)**</span>
 * Best Spotlight Paper Award in ChinaSys, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)] <span style="color:#d33954;">**(Top-5 in ChinaSys'24)**</span>
