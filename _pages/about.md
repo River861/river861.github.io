@@ -15,12 +15,16 @@ I am Xuchuan Luo「罗旭川」, a third-year Ph.D. candidate from [BZ Lab](http
 * <span style="color:#d33954;">**[August 2024] Our new paper *CHIME* has been accepted by SOSP'24! 🎉**</span>
 * **[June 2024]** I have attended the 26th *ChinaSys* Workshop and presented our *SMART* paper with a lightning talk and a poster in Hangzhou.
 * **[April 2024]** I have obtained the *NSFC for Ph.D. Graduate Students*.
-* **[March 2024]** Our invited paper "*A Memory-Disaggregated Radix Tree*" has been accepted by ACM TOS.
-* **[March 2024]** I have attended the defense of the *NSFC for Ph.D. Graduate Students* in Hangzhou.
 <details>
 
-<summary style="margin-left:20px;"><em>See more..</em></summary>
+<summary style="margin-left:20px;"><em>More..</em></summary>
 <ul>
+  <li>
+    <strong>[March 2024]</strong> Our invited paper "<em>A Memory-Disaggregated Radix Tree</em>" has been accepted by ACM TOS.
+  </li>
+  <li>
+    <strong>[March 2024]</strong> I have attended the defense of the <em>NSFC for Ph.D. Graduate Students</em> in Hangzhou.
+  </li>
   <li>
     <strong>[December 2023]</strong> I have received the <em>National Scholarship for Ph.D. Graduate Students</em>.
   </li>
@@ -34,7 +38,7 @@ I am Xuchuan Luo「罗旭川」, a third-year Ph.D. candidate from [BZ Lab](http
 </details>
 
 
-📋 Selected Publications [[*See more..*](https://river861.github.io/cv)]
+📋 Selected Publications [[More](https://river861.github.io/cv)]
 ---
 1. <strong style="color:#c93199;">[SOSP]</strong>
 <u>Xuchuan Luo</u>, Jiacheng Shen, Pengfei Zuo, Xin Wang, Michael R. Lyu, Yangfan Zhou.
@@ -65,7 +69,7 @@ Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Tianyi Yang, Yuxin Su, Yangfan Z
 
 
 
-🎗️ Selected Honors [[*See more..*](https://river861.github.io/cv)]
+🎗️ Selected Honors [[More](https://river861.github.io/cv)]
 ---
 * [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024 [[news](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)] <span style="color:#d33954;">**(The First Batch) (Top 0.5% in Fudan)**</span>
 * Best Spotlight Paper Award in ChinaSys, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)] <span style="color:#d33954;">**(Top-5 in ChinaSys'24)**</span>
