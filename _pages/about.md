@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Xuchuan Luo「罗旭川」, a third-year Ph.D. candidate from [BZ Lab](https://appsrv.cse.cuhk.edu.hk/~yfzhou/) (within SONIC Lab), School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/) (co-supervised by [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)). I received a B.Sc degree in Computer Science from Fudan University in 2021. My research interests are memory disaggregation, RDMA-based systems and storage systems. I am currently involved in maintaining [DMemSys](https://github.com/dmemsys), a collaboration hub that advances the frontiers of memory disaggregation.
+I am Xuchuan Luo「罗旭川」, a fourth-year Ph.D. candidate from [BZ Lab](https://appsrv.cse.cuhk.edu.hk/~yfzhou/) (within SONIC Lab), School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/) (co-supervised by [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)). I received a B.Sc degree in Computer Science from Fudan University in 2021. My research interests are memory disaggregation, RDMA-based systems and storage systems. I am currently involved in maintaining [DMemSys](https://github.com/dmemsys), a collaboration hub that advances the frontiers of memory disaggregation.
 
 
 📢 News
