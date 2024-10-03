@@ -17,12 +17,24 @@ I am Xuchuan Luo「罗旭川」, a third-year Ph.D. candidate from [BZ Lab](http
 * **[April 2024]** I have obtained the *NSFC for Ph.D. Graduate Students*.
 * **[March 2024]** Our invited paper "*A Memory-Disaggregated Radix Tree*" has been accepted by ACM TOS.
 * **[March 2024]** I have attended the defense of the *NSFC for Ph.D. Graduate Students* in Hangzhou.
-* **[December 2023]** I have received the *National Scholarship for Ph.D. Graduate Students*.
-* **[July 2023]** Our new paper *Ditto* has been accepted by SOSP'23. Congratulations to Jiacheng!
-* **[July 2023]** I have attended the OSDI'23 conference in Boston and presented our *SMART* paper at the conference.
+<details>
+
+<summary style="margin-left:20px;"><em>See more..</em></summary>
+<ul>
+  <li>
+    <strong>[December 2023]</strong> I have received the <em>National Scholarship for Ph.D. Graduate Students</em>.
+  </li>
+  <li>
+    <strong>[July 2023]</strong> Our new paper <em>Ditto</em> has been accepted by SOSP'23. Congratulations to Jiacheng!
+  </li>
+  <li>
+    <strong>[July 2023]</strong> I have attended the OSDI'23 conference in Boston and presented our <em>SMART</em> paper at the conference.
+  </li>
+</ul>
+</details>
 
 
-📋 Selected Publications [[More](https://river861.github.io/cv)]
+📋 Selected Publications [[*See more..*](https://river861.github.io/cv)]
 ---
 1. <strong style="color:#c93199;">[SOSP]</strong>
 <u>Xuchuan Luo</u>, Jiacheng Shen, Pengfei Zuo, Xin Wang, Michael R. Lyu, Yangfan Zhou.
@@ -53,7 +65,7 @@ Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Tianyi Yang, Yuxin Su, Yangfan Z
 
 
 
-🎗️ Selected Honors [[More](https://river861.github.io/cv)]
+🎗️ Selected Honors [[*See more..*](https://river861.github.io/cv)]
 ---
 * [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024 [[news](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)] <span style="color:#d33954;">**(The First Batch) (Top 0.5% in Fudan)**</span>
 * Best Spotlight Paper Award in ChinaSys, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)] <span style="color:#d33954;">**(Top-5 in ChinaSys'24)**</span>
