@@ -46,8 +46,8 @@ redirect_from:
 
 🏆 Awards and Prizes
 ---
-* National Scholarship for Ph.D. Graduate Students, 2024
 * Best Spotlight Paper Award in ChinaSys, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)]
+* National Scholarship for Ph.D. Graduate Students, 2024
 * National Scholarship for Ph.D. Graduate Students, 2023
 * Rising Innovation Star Award at Huawei Cloud, 2023 [[news](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]
 * Huawei Scholarship at Fudan University, 2022
