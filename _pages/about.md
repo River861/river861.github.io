@@ -44,7 +44,7 @@ I am Xuchuan Luo「罗旭川」, a fourth-year Ph.D. candidate from [BZ Lab](htt
 1. <strong style="color:#c93199;">[SOSP]</strong>
 <u>Xuchuan Luo</u>, Jiacheng Shen, Pengfei Zuo, Xin Wang, Michael R. Lyu, Yangfan Zhou.
 ***CHIME: A Cache-Efficient and High-Performance Hybrid Index on Disaggregated Memory.***
-*In the 30th ACM Symposium on Operating Systems Principles, SOSP 2024.* *([To appear](https://sigops.org/s/conferences/sosp/2024/accepted.html))*
+*In the 30th ACM Symposium on Operating Systems Principles, SOSP 2024.* *([paper](https://doi.org/10.1145/3694715.3695959), [code](https://github.com/dmemsys/CHIME))*
 2. <strong style="color:#c93199;">[OSDI]</strong>
 <u>Xuchuan Luo</u>, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael R. Lyu, Yangfan Zhou.
 ***SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.***
