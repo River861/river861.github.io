@@ -12,6 +12,7 @@ I am Xuchuan Luo「罗旭川」, a fourth-year Ph.D. candidate from [BZ Lab](htt
 
 📢 News
 ---
+* **[November 2024]** I have attended the 2024 CCF *ChinaStorage* conference in Guangzhou.
 * **[October 2024]** I have won the *National Scholarship for Ph.D. Graduate Students* again.
 * <span style="color:#d33954;">**[August 2024] Our new paper *CHIME* has been accepted by SOSP'24! 🎉**</span>
 * **[June 2024]** I have attended the 26th *ChinaSys* Workshop and presented our *SMART* paper with a lightning talk and a poster in Hangzhou.
