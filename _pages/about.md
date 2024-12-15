@@ -12,15 +12,20 @@ I am Xuchuan Luo「罗旭川」, a fourth-year Ph.D. candidate from [BZ Lab](htt
 
 📢 News
 ---
+* **[December 2024]** I have attended the 27th *ChinaSys* Workshop and given an oral presentation on our *CHIME* paper in Tianjin.
 * **[November 2024]** I have attended the 2024 CCF *ChinaStorage* conference in Guangzhou.
 * **[October 2024]** I have won the *National Scholarship for Ph.D. Graduate Students* again.
 * <span style="color:#d33954;">**[August 2024] Our new paper *CHIME* has been accepted by SOSP'24! 🎉**</span>
-* **[June 2024]** I have attended the 26th *ChinaSys* Workshop and presented our *SMART* paper with a lightning talk and a poster in Hangzhou.
-* **[April 2024]** I have obtained the *NSFC for Ph.D. Graduate Students*.
 <details>
 
 <summary style="margin-left:20px;"><em>More..</em></summary>
 <ul>
+  <li>
+    <strong>[June 2024]</strong> I have attended the 26th <em>ChinaSys</em> Workshop and presented our <em>SMART</em> paper with a lightning talk and a poster in Hangzhou.
+  </li>
+  <li>
+    <strong>[April 2024]</strong> I have obtained the <em>NSFC for Ph.D. Graduate Students</em>.
+  </li>
   <li>
     <strong>[March 2024]</strong> Our invited paper "<em>A Memory-Disaggregated Radix Tree</em>" has been accepted by ACM TOS.
   </li>
