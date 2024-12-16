@@ -61,7 +61,7 @@ I am Xuchuan Luo「罗旭川」, a fourth-year Ph.D. candidate from [BZ Lab](htt
 Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Yuxin Su, Jiazhen Gu, Yangfan Zhou, Hao Feng, and Michael R. Lyu.
 ***Ditto: An Elastic and Adaptive Memory-Disaggregated Caching System.***
 *In the 29th ACM Symposium on Operating Systems Principles, SOSP 2023.*
-[[paper](https://dl.acm.org/doi/10.1145/3600006.3613144), [github](https://github.com/dmemsys/Ditto)]
+[[paper](https://dl.acm.org/doi/10.1145/3600006.3613144?cid=99660506342), [github](https://github.com/dmemsys/Ditto)]
 4. <strong style="color:#c93199;">[TOS]</strong>
 <u>Xuchuan Luo</u>, Pengfei Zuo, Jiacheng Shen, Jiazhen Gu, Xin Wang, Michael R. Lyu, Yangfan Zhou.
 ***A Memory-Disaggregated Radix Tree.***
