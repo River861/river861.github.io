@@ -18,11 +18,11 @@ redirect_from:
   * B.Sc. in Computer Science, 2017 - 2021
 
 
-<!-- 🏢 Internship
+🏢 Internship
 ---
 * **Huawei Cloud**
   * Research intern in Shenzhen, Sept. 2022 - Aug. 2023  
-  Partners: [Dr. Jiacheng Shen](https://bernardshen.github.io/) and [Dr. Pengfei Zuo](https://pfzuo.github.io/) -->
+  <!-- Partners: [Dr. Jiacheng Shen](https://bernardshen.github.io/) and [Dr. Pengfei Zuo](https://pfzuo.github.io/) -->
 
 
 ---
