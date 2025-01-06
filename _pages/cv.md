@@ -42,6 +42,9 @@ redirect_from:
   * Project Name: *<u>Optimizing the I/O Efficiency of Key-Value Stores on Disaggregated Memory</u>*
   * Supporting Unit: *<u>Fudan University</u>*
 
+* [China Association for Science and Technology Young Talent Promotion Program](https://www.cast.org.cn/xw/tzgg/ZH/art/2024/art_2ddd0b3fbaca4b85af027b2b39003c2b.html) for Ph.D. Graduate Students, 2024
+  * Promoting Institute: *<u>China Institute of Communications</u>*
+
 ---
 
 🏆 Awards and Prizes
@@ -53,8 +56,8 @@ redirect_from:
 * Huawei Scholarship at Fudan University, 2022
 * Outstanding Graduate of Fudan University, 2021
 <!-- * Second-Class Scholarship for Outstanding Students in Fudan University, 2020 -->
-* Second Prize in Mathematics Competition of Chinese College Students (Non-Math Group), 2019
-* Third Prize in China Undergraduate Mathematical Contest in Modeling (Shanghai Group), 2019
+<!-- * Second Prize in Mathematics Competition of Chinese College Students (Non-Math Group), 2019
+* Third Prize in China Undergraduate Mathematical Contest in Modeling (Shanghai Group), 2019 -->
 <!-- * Second-Class Scholarship for Outstanding Students in Fudan University, 2018 -->
 
 <!-- Talks
