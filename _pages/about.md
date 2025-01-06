@@ -82,6 +82,6 @@ Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Tianyi Yang, Yuxin Su, Yangfan Z
 * [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students「国家自然科学基金青年学生基础研究项目（博士研究生）」, 2024 [[news](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)] <span style="color:#d33954;">**(The First Batch) (~500 Awardees among all Ph.D. Students in China)**</span>
 * [China Association for Science and Technology Young Talent Promotion Program](https://www.cast.org.cn/xw/tzgg/ZH/art/2024/art_2ddd0b3fbaca4b85af027b2b39003c2b.html) for Ph.D. Graduate Students「中国科协 "青年人才托举工程" 博士生专项计划」, 2024 <span style="color:#d33954;">**(The First Batch) (3226 Awardees among all Ph.D. Students in China)**</span>
 * Best Spotlight Paper Award in the 26th ChinaSys Workshop, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)] <span style="color:#d33954;">**(Top-5 in the Workshop)**</span>
-* National Scholarship for Ph.D. Graduate Students, 2024 <span style="color:#d33954;">**(Top 2% in Fudan)**</span>
-* National Scholarship for Ph.D. Graduate Students, 2023 <span style="color:#d33954;">**(Top 2% in Fudan)**</span>
+* National Scholarship for Ph.D. Graduate Students「国家奖学金」, 2024 <span style="color:#d33954;">**(Top 2% in Fudan)**</span>
+* National Scholarship for Ph.D. Graduate Students「国家奖学金」, 2023 <span style="color:#d33954;">**(Top 2% in Fudan)**</span>
 <!-- * Rising Innovation Star Award at Huawei Cloud, 2023 [[news](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)] -->
