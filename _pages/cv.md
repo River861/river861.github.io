@@ -38,11 +38,11 @@ redirect_from:
 
 🪙 Funding and Grants
 ---
-* [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students「国家自然科学基金青年学生基础研究项目（博士研究生）」, 2024, 2 years [[news](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)]
+* [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students, 2024, 2 years [[news](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)]
   * Project Name: *<u>Optimizing the I/O Efficiency of Key-Value Stores on Disaggregated Memory</u>*
   * Supporting Unit: *<u>Fudan University</u>*
 
-* [China Association for Science and Technology Young Talent Promotion Program](https://www.cast.org.cn/xw/tzgg/ZH/art/2024/art_2ddd0b3fbaca4b85af027b2b39003c2b.html) for Ph.D. Graduate Students「中国科协 "青年人才托举工程" 博士生专项计划」, 2024, 2 years
+* [China Association for Science and Technology Young Talent Promotion Program](https://www.cast.org.cn/xw/tzgg/ZH/art/2024/art_2ddd0b3fbaca4b85af027b2b39003c2b.html) for Ph.D. Graduate Students, 2024, 2 years
   * Promoting Institute: *<u>China Institute of Communications</u>*
 
 ---
@@ -50,11 +50,11 @@ redirect_from:
 🏆 Awards and Prizes
 ---
 * Best Spotlight Paper Award in the 26th ChinaSys, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)]
-* National Scholarship for Ph.D. Graduate Students「国家奖学金」, 2024
-* National Scholarship for Ph.D. Graduate Students「国家奖学金」, 2023
+* National Scholarship for Ph.D. Graduate Students, 2024
+* National Scholarship for Ph.D. Graduate Students, 2023
 * Rising Innovation Star Award at Huawei Cloud, 2023 [[news](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]
 * Huawei Scholarship at Fudan University, 2022
-* Outstanding Graduate of Fudan University「复旦大学优秀毕业生（本科）」, 2021
+* Outstanding Graduate of Fudan University, 2021
 
 <!-- * Second-Class Scholarship for Outstanding Students in Fudan University, 2020 -->
 <!-- * Second Prize in Mathematics Competition of Chinese College Students (Non-Math Group), 2019 -->

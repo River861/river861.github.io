@@ -84,4 +84,4 @@ Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Tianyi Yang, Yuxin Su, Yangfan Z
 * Best Spotlight Paper Award in the 26th ChinaSys Workshop, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)] <span style="color:#d33954;">**(Top-5 in the Workshop)**</span>
 * National Scholarship for Ph.D. Graduate Students「国家奖学金」, 2024 <span style="color:#d33954;">**(Top 2% in Fudan)**</span>
 * National Scholarship for Ph.D. Graduate Students「国家奖学金」, 2023 <span style="color:#d33954;">**(Top 2% in Fudan)**</span>
-<!-- * Rising Innovation Star Award at Huawei Cloud, 2023 [[news](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)] -->
+* Outstanding Graduate of Fudan University「复旦大学优秀毕业生（本科）」, 2021
