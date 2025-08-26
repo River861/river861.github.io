@@ -7,20 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Xuchuan Luo「罗旭川」, a fourth-year Ph.D. candidate from [BZ Lab](https://appsrv.cse.cuhk.edu.hk/~yfzhou/) (within SONIC Lab), School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/) (co-supervised by [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)). I am also mentored by [Prof. Jiacheng Shen](https://bernardshen.github.io/). I received a B.Sc degree in Computer Science from Fudan University in 2021. My research interests are memory disaggregation, RDMA-based systems and storage systems. I am currently involved in maintaining [DMemSys](https://github.com/dmemsys), a collaboration hub that advances the frontiers of memory disaggregation.
+I am Xuchuan Luo「罗旭川」, a fifth-year Ph.D. candidate from [BZ Lab](https://appsrv.cse.cuhk.edu.hk/~yfzhou/) (within SONIC Lab), School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/) (co-supervised by [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)). I am also mentored by [Prof. Jiacheng Shen](https://bernardshen.github.io/). I received a B.Sc degree in Computer Science from Fudan University in 2021. My research interests are memory disaggregation, RDMA-based systems, storage systems, and LLM inference systems. I am involved in maintaining [DMemSys](https://github.com/dmemsys), a collaboration hub that advances the frontiers of memory disaggregation.
 
 
 📢 News
 ---
+* **[April 2025]** Fudan University had recognized me as a *Fudan Role Model* [[news](https://mp.weixin.qq.com/s/O35MDJfx_WcHxxWgC5JmOw)].
 * **[January 2025]** I have been selected into the 2024 *Young Talent Sponsorship Program for Ph.D. Graduate Students* by China Association for Science and Technology.
 * **[December 2024]** I have attended the 27th *ChinaSys* Workshop and given an oral presentation on our *CHIME* paper in Tianjin.
 * **[November 2024]** I have attended the 2024 CCF *ChinaStorage* conference in Guangzhou.
-* **[October 2024]** I have won the *National Scholarship for Ph.D. Graduate Students* again.
-* <span style="color:#d33954;">**[August 2024] Our new paper *CHIME* has been accepted by SOSP'24! 🎉**</span>
 <details>
 
 <summary style="margin-left:20px;"><em>More..</em></summary>
 <ul>
+  <li>
+    <strong>[October 2024]</strong> I have won the <em>National Scholarship for Ph.D. Graduate Students</em> again.
+  </li>
+  <li>
+    <strong>[August 2024]</strong> Our new paper <em>CHIME</em> has been accepted by SOSP'24! 🎉
+  </li>
   <li>
     <strong>[June 2024]</strong> I have attended the 26th <em>ChinaSys</em> Workshop and presented our <em>SMART</em> paper with a lightning talk and a poster in Hangzhou.
   </li>
