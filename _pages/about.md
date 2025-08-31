@@ -12,14 +12,17 @@ I am Xuchuan Luo「罗旭川」, a fifth-year Ph.D. candidate from [BZ Lab](http
 
 📢 News
 ---
+* **[August 2025]** I have attended the 2025 CCF *ChinaStorage* conference in Wuhan and assisted in preparing the the sub-forum chaired by Prof. Jiacheng Shen and Prof. Xin Wang.
 * **[April 2025]** Fudan University had recognized me as a *Fudan Role Model* [[news](https://mp.weixin.qq.com/s/O35MDJfx_WcHxxWgC5JmOw)].
 * **[January 2025]** I have been selected into the 2024 *Young Talent Sponsorship Program for Ph.D. Graduate Students* by China Association for Science and Technology.
 * **[December 2024]** I have attended the 27th *ChinaSys* Workshop and given an oral presentation on our *CHIME* paper in Tianjin.
-* **[November 2024]** I have attended the 2024 CCF *ChinaStorage* conference in Guangzhou.
 <details>
 
 <summary style="margin-left:20px;"><em>More..</em></summary>
 <ul>
+  <li>
+    <strong>[November 2024]</strong> I have attended the 2024 CCF <em>ChinaStorage</em> conference in Guangzhou.
+  </li>
   <li>
     <strong>[October 2024]</strong> I have won the <em>National Scholarship for Ph.D. Graduate Students</em> again.
   </li>
