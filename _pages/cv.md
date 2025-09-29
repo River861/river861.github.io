@@ -42,7 +42,7 @@ redirect_from:
   * Project Name: *<u>Optimizing the I/O Efficiency of Key-Value Stores on Disaggregated Memory</u>*
   * Supporting Unit: *<u>Fudan University</u>*
 
-* [Young Talent Sponsorship Program of China Association for Science and Technology](https://www.cast.org.cn/xw/tzgg/ZH/art/2024/art_2ddd0b3fbaca4b85af027b2b39003c2b.html) for Ph.D. Graduate Students, 2024, 2 years
+* Young Talent Sponsorship Program of [China Association for Science and Technology (CAST)](https://www.cast.org.cn/xw/tzgg/ZH/art/2024/art_2ddd0b3fbaca4b85af027b2b39003c2b.html) for Ph.D. Graduate Students, 2024, 2 years
   * Supporting Institute: *<u>China Institute of Communications</u>*
 
 ---

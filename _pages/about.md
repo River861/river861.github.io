@@ -12,14 +12,17 @@ I am Xuchuan Luo「罗旭川」, a fifth-year Ph.D. candidate from [BZ Lab](http
 
 📢 News
 ---
-* **[August 2025]** I have attended the 2025 CCF *ChinaStorage* conference in Wuhan and assisted in preparing the the sub-forum chaired by Prof. Jiacheng Shen and Prof. Xin Wang.
+* **[September 2025]** I have attended the *"Navigator Program"* activity for young scientific and technological talents, organized by CAST, in Hangzhou for 5 days [[news](https://mp.weixin.qq.com/s/XtvX_FTSnU4VMLvGmOY9Kg)].
+* **[August 2025]** I have attended the 2025 CCF *ChinaStorage* conference in Wuhan and assisted in preparing the the sub-forum chaired by Prof. Jiacheng Shen and Prof. Xin Wang [[news](https://mp.weixin.qq.com/s/DbEUBH63xzMjcERXnS-COQ)].
 * **[April 2025]** Fudan University had recognized me as a *Fudan Role Model* [[news](https://mp.weixin.qq.com/s/O35MDJfx_WcHxxWgC5JmOw)].
-* **[January 2025]** I have been selected into the 2024 *Young Talent Sponsorship Program for Ph.D. Graduate Students* by China Association for Science and Technology.
-* **[December 2024]** I have attended the 27th *ChinaSys* Workshop and given an oral presentation on our *CHIME* paper in Tianjin.
-<details>
+* **[January 2025]** I have been selected into the 2024 *Young Talent Sponsorship Program for Ph.D. Graduate Students* by China Association for Science and Technology (CAST).
 
+<details>
 <summary style="margin-left:20px;"><em>More..</em></summary>
 <ul>
+  <li>
+    <strong>[December 2024]</strong> I have attended the 27th <em>ChinaSys</em> Workshop and given an oral presentation on our <em>CHIME</em> paper in Tianjin.
+  </li>
   <li>
     <strong>[November 2024]</strong> I have attended the 2024 CCF <em>ChinaStorage</em> conference in Guangzhou.
   </li>
@@ -45,7 +48,7 @@ I am Xuchuan Luo「罗旭川」, a fifth-year Ph.D. candidate from [BZ Lab](http
     <strong>[December 2023]</strong> I have received the <em>National Scholarship for Ph.D. Graduate Students</em>.
   </li>
   <li>
-    <strong>[July 2023]</strong> Our new paper <em>Ditto</em> has been accepted by SOSP'23. Congratulations to Jiacheng!
+    <strong>[July 2023]</strong> Our new paper <em>Ditto</em> has been accepted by SOSP'23. Congratulations to Jiacheng! 🎉
   </li>
   <li>
     <strong>[July 2023]</strong> I have attended the OSDI'23 conference in Boston and presented our <em>SMART</em> paper at the conference.
@@ -88,7 +91,7 @@ Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Tianyi Yang, Yuxin Su, Yangfan Z
 🎗️ Selected Honors [[More](https://river861.github.io/cv)]
 ---
 * [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students「国家自然科学基金青年学生基础研究项目（博士研究生）」, 2024 [[news](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)] <span style="color:#d33954;">**(The First Batch) (~500 Awardees among All Disciplines across China)**</span>
-* [Young Talent Sponsorship Program of China Association for Science and Technology](https://www.cast.org.cn/xw/tzgg/ZH/art/2024/art_2ddd0b3fbaca4b85af027b2b39003c2b.html) for Ph.D. Graduate Students「中国科协 "青年人才托举工程" 博士生专项计划」, 2024 <span style="color:#d33954;">**(The First Batch) (3226 Awardees among All Disciplines across China)**</span>
+* Young Talent Sponsorship Program of [China Association for Science and Technology (CAST)](https://www.cast.org.cn/xw/tzgg/ZH/art/2024/art_2ddd0b3fbaca4b85af027b2b39003c2b.html) for Ph.D. Graduate Students「中国科协 "青年人才托举工程" 博士生专项计划」, 2024 <span style="color:#d33954;">**(The First Batch) (3226 Awardees among All Disciplines across China)**</span>
 * Best Spotlight Paper Award in the 26th ChinaSys Workshop, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)] <span style="color:#d33954;">**(Top-5 in the Workshop)**</span>
 * National Scholarship for Ph.D. Graduate Students「国家奖学金」, 2024 [[news](https://mp.weixin.qq.com/s/O35MDJfx_WcHxxWgC5JmOw)] <span style="color:#d33954;">**(Top 2% in Fudan)**</span>
 * National Scholarship for Ph.D. Graduate Students「国家奖学金」, 2023 <span style="color:#d33954;">**(Top 2% in Fudan)**</span>
