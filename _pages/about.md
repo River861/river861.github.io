@@ -12,15 +12,17 @@ I am Xuchuan Luo「罗旭川」, a fifth-year Ph.D. candidate from [BZ Lab](http
 
 📢 News
 ---
-* **[October 2025]** I have attended the 2025 *CNCC* conference in Harbin and assisted in preparing the the sub-forum chaired by Prof. Jiacheng Shen and Prof. Xin Wang [[news](https://ccf.org.cn/cncc2025/schedule_d_4128)].
+* **[October 2025]** I have attended the 2025 *CNCC* conference in Harbin and assisted in preparing the forum chaired by Prof. Jiacheng Shen and Prof. Xin Wang [[news](https://ccf.org.cn/cncc2025/schedule_d_4128)].
 * **[September 2025]** I have attended the *"Navigator Program"* activity for young scientific and technological talents, organized by CAST, in Hangzhou for 5 days [[news](https://mp.weixin.qq.com/s/XtvX_FTSnU4VMLvGmOY9Kg)].
-* **[August 2025]** I have attended the 2025 CCF *ChinaStorage* conference in Wuhan and assisted in preparing the the sub-forum chaired by Prof. Jiacheng Shen and Prof. Xin Wang [[news](https://mp.weixin.qq.com/s/DbEUBH63xzMjcERXnS-COQ)].
+* **[August 2025]** I have attended the 2025 CCF *ChinaStorage* conference in Wuhan and assisted in preparing the forum chaired by Prof. Jiacheng Shen and Prof. Xin Wang [[news](https://mp.weixin.qq.com/s/DbEUBH63xzMjcERXnS-COQ)].
 * **[April 2025]** Fudan University had recognized me as a *Fudan Role Model* [[news](https://mp.weixin.qq.com/s/O35MDJfx_WcHxxWgC5JmOw)].
-* **[January 2025]** I have been selected into the 2024 *Young Talent Sponsorship Program for Ph.D. Graduate Students* by China Association for Science and Technology (CAST).
 
 <details>
 <summary style="margin-left:20px;"><em>More..</em></summary>
 <ul>
+  <li>
+    <strong>[January 2025]</strong> I have been selected into the 2024 <em>Young Talent Sponsorship Program for Ph.D. Graduate Students</em> by China Association for Science and Technology (CAST).
+  </li>
   <li>
     <strong>[December 2024]</strong> I have attended the 27th <em>ChinaSys</em> Workshop and given an oral presentation on our <em>CHIME</em> paper in Tianjin.
   </li>
