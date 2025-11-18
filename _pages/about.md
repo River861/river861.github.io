@@ -12,6 +12,7 @@ I am Xuchuan Luo「罗旭川」, a fifth-year Ph.D. candidate from [BZ Lab](http
 
 📢 News
 ---
+* **[November 2025]** I have attended the 2025 *Tencent Project Up* activity in Shenzhen.
 * **[October 2025]** I have attended the 2025 *CNCC* conference in Harbin and assisted in preparing the forum chaired by Prof. Jiacheng Shen and Prof. Xin Wang [[news](https://ccf.org.cn/cncc2025/schedule_d_4128)].
 * **[September 2025]** I have attended the *"Navigator Program"* activity for young scientific and technological talents, organized by CAST, in Hangzhou for 5 days [[news](https://mp.weixin.qq.com/s/XtvX_FTSnU4VMLvGmOY9Kg)].
 * **[August 2025]** I have attended the 2025 CCF *ChinaStorage* conference in Wuhan and assisted in preparing the forum chaired by Prof. Jiacheng Shen and Prof. Xin Wang [[news](https://mp.weixin.qq.com/s/DbEUBH63xzMjcERXnS-COQ)].
