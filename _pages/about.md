@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Xuchuan Luo「罗旭川」, a fifth-year Ph.D. candidate from [BZ Lab](https://appsrv.cse.cuhk.edu.hk/~yfzhou/) (within SONIC Lab), School of Computer Science, [Fudan University](https://www.fudan.edu.cn/en/) (co-supervised by [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)). I am also mentored by [Prof. Jiacheng Shen](https://bernardshen.github.io/). I received a B.Sc degree in Computer Science from Fudan University in 2021. My research interests are memory disaggregation, RDMA-based systems, storage systems, and LLM inference systems. I am involved in maintaining [DMemSys](https://github.com/dmemsys), a collaboration hub that advances the frontiers of memory disaggregation.
+I am Xuchuan Luo「罗旭川」, a newly minted Ph.D. from [BZ Lab](https://appsrv.cse.cuhk.edu.hk/~yfzhou/) (within SONIC Lab), College of Computer Science and Artificial Intelligence, [Fudan University](https://www.fudan.edu.cn/en/) (co-supervised by [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)). I am also mentored by [Prof. Jiacheng Shen](https://bernardshen.github.io/). I received a B.Sc degree in Computer Science from Fudan University in 2021. My research interests are memory disaggregation, RDMA-based systems, storage systems, and LLM inference systems. I am involved in maintaining [DMemSys](https://github.com/dmemsys), a collaboration hub that advances the frontiers of memory disaggregation.
 
 
 📢 News
 ---
+* **[June 2026]** I have successfully defended my doctoral dissertation! 🎉
+* **[November 2025]** Our new paper <em>CIDER</em> has been accepted by VLDB'26. Congratulations to Yuxuan! 🎉
 * **[November 2025]** I have attended the 2025 *Tencent Project Up* activity in Shenzhen.
 * **[October 2025]** I have attended the 2025 *CNCC* conference in Harbin and assisted in preparing the forum chaired by Prof. Jiacheng Shen and Prof. Xin Wang [[news](https://ccf.org.cn/cncc2025/schedule_d_4128)].
 * **[September 2025]** I have attended the *"Navigator Program"* activity for young scientific and technological talents, organized by CAST, in Hangzhou for 5 days [[news](https://mp.weixin.qq.com/s/XtvX_FTSnU4VMLvGmOY9Kg)].
@@ -99,4 +101,5 @@ Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Tianyi Yang, Yuxin Su, Yangfan Z
 * Best Spotlight Paper Award in the 26th ChinaSys Workshop, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)] <span style="color:#d33954;">**(Top-5 in the Workshop)**</span>
 * National Scholarship for Ph.D. Graduate Students「国家奖学金」, 2024 [[news](https://mp.weixin.qq.com/s/O35MDJfx_WcHxxWgC5JmOw)] <span style="color:#d33954;">**(Top 2% in Fudan)**</span>
 * National Scholarship for Ph.D. Graduate Students「国家奖学金」, 2023 <span style="color:#d33954;">**(Top 2% in Fudan)**</span>
+* Outstanding Graduate of Fudan University「复旦大学优秀毕业生（博士）」, 2026
 * Outstanding Graduate of Fudan University「复旦大学优秀毕业生（本科）」, 2021

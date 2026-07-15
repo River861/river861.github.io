@@ -20,6 +20,8 @@ redirect_from:
 
 🏢 Internship
 ---
+* **Xingyun Zhili AI Research Institute**
+  * Research intern in Shenzhen, May 2026 - Jun. 2026  
 * **Huawei Cloud**
   * Research intern in Shenzhen, Sept. 2022 - Aug. 2023  
   <!-- Partners: [Dr. Jiacheng Shen](https://bernardshen.github.io/) and [Dr. Pengfei Zuo](https://pfzuo.github.io/) -->
@@ -54,6 +56,7 @@ redirect_from:
 * National Scholarship for Ph.D. Graduate Students, 2023
 * Rising Innovation Star Award at Huawei Cloud, 2023 [[news](https://www.huaweicloud.com/lab/storage/news_innovative_star_2023.html)]
 * Huawei Scholarship at Fudan University, 2022
+* Outstanding Graduate of Fudan University, 2026
 * Outstanding Graduate of Fudan University, 2021
 
 <!-- * Second-Class Scholarship for Outstanding Students in Fudan University, 2020 -->
