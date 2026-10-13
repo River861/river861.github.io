@@ -13,15 +13,17 @@ redirect_from:
 🏫 Education
 ---
 * **Fudan University**
-  * Ph.D in Computer Science, 2021 - now  
+  * Ph.D in Computer Science, 2021 - 2026  
     Mentors: [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)
   * B.Sc. in Computer Science, 2017 - 2021
 
 
 🏢 Internship
 ---
+* **Microsoft Research Asia (MSRA), StarBridge Program**
+  * Research assistant in Beijing, July 2026 - now
 * **Xingyun Zhili AI Research Institute**
-  * Research intern in Shenzhen, May 2026 - Jun. 2026  
+  * Research intern in Shanghai, May 2026 - Jun. 2026  
 * **Huawei Cloud**
   * Research intern in Shenzhen, Sept. 2022 - Aug. 2023  
   <!-- Partners: [Dr. Jiacheng Shen](https://bernardshen.github.io/) and [Dr. Pengfei Zuo](https://pfzuo.github.io/) -->
@@ -51,6 +53,7 @@ redirect_from:
 
 🏆 Awards and Prizes
 ---
+* ACM ChinaSys Outstanding Doctoral Dissertation Award, 2026 [[news](https://mp.weixin.qq.com/s/H3BJ8bzUFMS_zFJQEYF8xw)]
 * Best Spotlight Paper Award in the 26th ChinaSys, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)]
 * National Scholarship for Ph.D. Graduate Students, 2024 [[news](https://mp.weixin.qq.com/s/O35MDJfx_WcHxxWgC5JmOw)]
 * National Scholarship for Ph.D. Graduate Students, 2023

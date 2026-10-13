@@ -7,11 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Xuchuan Luo「罗旭川」, a newly minted Ph.D. from [BZ Lab](https://appsrv.cse.cuhk.edu.hk/~yfzhou/) (within SONIC Lab), College of Computer Science and Artificial Intelligence, [Fudan University](https://www.fudan.edu.cn/en/) (co-supervised by [Prof. Yangfan Zhou](https://cs.fudan.edu.cn/3f/a9/c25909a278441/page.htm) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm)). I am also mentored by [Prof. Jiacheng Shen](https://bernardshen.github.io/). I received a B.Sc degree in Computer Science from Fudan University in 2021. My research interests are memory disaggregation, RDMA-based systems, storage systems, and LLM inference systems. I am involved in maintaining [DMemSys](https://github.com/dmemsys), a collaboration hub that advances the frontiers of memory disaggregation.
+I am Xuchuan Luo「罗旭川」, a newly minted Ph.D. from [Fudan University](https://www.fudan.edu.cn/en/), co-supervised by [Prof. Yangfan Zhou](https://appsrv.cse.cuhk.edu.hk/~yfzhou/) and [Prof. Xin Wang](https://cs.fudan.edu.cn/3f/7e/c25906a278398/page.htm). I received the 2026 ACM ChinaSys Outstanding Doctoral Dissertation Award. My research interests are memory disaggregation, RDMA-based systems, storage systems, and LLM inference systems.
+<!-- I am involved in maintaining [DMemSys](https://github.com/dmemsys), a collaboration hub that advances the frontiers of memory disaggregation. -->
 
 
 📢 News
 ---
+* **[September 2026]** I have received the 2026 *ACM ChinaSys Outstanding Doctoral Dissertation Award*.
 * **[June 2026]** I have successfully defended my doctoral dissertation! 🎉
 * **[November 2025]** Our new paper <em>CIDER</em> has been accepted by VLDB'26. Congratulations to Yuxuan! 🎉
 * **[November 2025]** I have attended the 2025 *Tencent Project Up* activity in Shenzhen.
@@ -96,6 +98,7 @@ Jiacheng Shen, Pengfei Zuo, <u>Xuchuan Luo</u>, Tianyi Yang, Yuxin Su, Yangfan Z
 
 🎗️ Selected Honors [[More](https://river861.github.io/cv)]
 ---
+* ACM ChinaSys Outstanding Doctoral Dissertation Award「ACM ChinaSys优博」, 2026 [[news](https://mp.weixin.qq.com/s/H3BJ8bzUFMS_zFJQEYF8xw)] <span style="color:#d33954;">**(Ranked 1st among 3 Awardees in the Computer Systems Discipline across China)**</span>
 * [National Natural Science Foundation of China (NSFC)](https://www.nsfc.gov.cn/) for Ph.D. Graduate Students「国家自然科学基金青年学生基础研究项目（博士研究生）」, 2024 [[news](https://mp.weixin.qq.com/s/mF7hdDoAGUkvgnFvx0hAOA)] <span style="color:#d33954;">**(The First Batch) (~500 Awardees among All Disciplines across China)**</span>
 * Young Talent Sponsorship Program of [China Association for Science and Technology (CAST)](https://www.cast.org.cn/xw/tzgg/ZH/art/2024/art_2ddd0b3fbaca4b85af027b2b39003c2b.html) for Ph.D. Graduate Students「中国科协 "青年人才托举工程" 博士生专项计划」, 2024 <span style="color:#d33954;">**(The First Batch) (3226 Awardees among All Disciplines across China)**</span>
 * Best Spotlight Paper Award in the 26th ChinaSys Workshop, 2024 [[news](https://mp.weixin.qq.com/s/kdix73_Rek42dAL_9TnJuA)] <span style="color:#d33954;">**(Top-5 in the Workshop)**</span>
